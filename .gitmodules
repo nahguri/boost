@@ -226,6 +226,10 @@
 	path = libs/optional
 	url = ../optional.git
 	fetchRecurseSubmodules = on-demand
+[submodule "iostreams"]
+	path = libs/iostreams
+	url = ../iostreams.git
+	fetchRecurseSubmodules = on-demand
 [submodule "multi_index"]
 	path = libs/multi_index
 	url = ../multi_index.git
