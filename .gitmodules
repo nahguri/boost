@@ -10,6 +10,10 @@
 	path = libs/smart_ptr
 	url = ../smart_ptr.git
 	fetchRecurseSubmodules = on-demand
+[submodule "ptr_container"]
+	path = libs/ptr_container
+	url = ../ptr_container.git
+	fetchRecurseSubmodules = on-demand
 [submodule "quickbook"]
 	path = tools/quickbook
 	url = ../quickbook.git
