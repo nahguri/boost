@@ -150,3 +150,7 @@
 	path = libs/bind
 	url = ../bind.git
 	fetchRecurseSubmodules = on-demand
+[submodule "signals"]
+	path = libs/signals
+	url = ../signals.git
+	fetchRecurseSubmodules = on-demand
