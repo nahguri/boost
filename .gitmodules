@@ -1,3 +1,7 @@
+[submodule "io"]
+	path = libs/io
+	url = ../io.git
+	fetchRecurseSubmodules = on-demand
 [submodule "smart_ptr"]
 	path = libs/smart_ptr
 	url = ../smart_ptr.git
