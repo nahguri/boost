@@ -18,6 +18,10 @@
 	path = tools/quickbook
 	url = ../quickbook.git
 	fetchRecurseSubmodules = on-demand
+[submodule "parameter"]
+	path = libs/parameter
+	url = ../parameter.git
+	fetchRecurseSubmodules = on-demand
 [submodule "compatibility"]
 	path = libs/compatibility
 	url = ../compatibility.git
