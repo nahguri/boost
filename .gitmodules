@@ -226,3 +226,7 @@
 	path = libs/algorithm
 	url = ../algorithm.git
 	fetchRecurseSubmodules = on-demand
+[submodule "assign"]
+	path = libs/assign
+	url = ../assign.git
+	fetchRecurseSubmodules = on-demand
