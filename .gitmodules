@@ -126,6 +126,10 @@
 	path = libs/function
 	url = ../function.git
 	fetchRecurseSubmodules = on-demand
+[submodule "date_time"]
+	path = libs/date_time
+	url = ../date_time.git
+	fetchRecurseSubmodules = on-demand
 [submodule "crc"]
 	path = libs/crc
 	url = ../crc.git
