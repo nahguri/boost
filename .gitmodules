@@ -250,3 +250,7 @@
 	path = libs/assign
 	url = ../assign.git
 	fetchRecurseSubmodules = on-demand
+[submodule "wave"]
+	path = libs/wave
+	url = ../wave.git
+	fetchRecurseSubmodules = on-demand
