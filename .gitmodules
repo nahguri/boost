@@ -90,6 +90,10 @@
 	path = libs/static_assert
 	url = ../static_assert.git
 	fetchRecurseSubmodules = on-demand
+[submodule "any"]
+	path = libs/any
+	url = ../any.git
+	fetchRecurseSubmodules = on-demand
 [submodule "test"]
 	path = libs/test
 	url = ../test.git
