@@ -106,6 +106,10 @@
 	path = libs/tokenizer
 	url = ../tokenizer.git
 	fetchRecurseSubmodules = on-demand
+[submodule "build"]
+	path = tools/build
+	url = ../build.git
+	fetchRecurseSubmodules = on-demand
 [submodule "thread"]
 	path = libs/thread
 	url = ../thread.git
