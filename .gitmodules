@@ -94,6 +94,10 @@
 	path = libs/test
 	url = ../test.git
 	fetchRecurseSubmodules = on-demand
+[submodule "math"]
+	path = libs/math
+	url = ../math.git
+	fetchRecurseSubmodules = on-demand
 [submodule "tokenizer"]
 	path = libs/tokenizer
 	url = ../tokenizer.git
