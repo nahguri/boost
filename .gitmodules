@@ -158,3 +158,7 @@
 	path = libs/format
 	url = ../format.git
 	fetchRecurseSubmodules = on-demand
+[submodule "dynamic_bitset"]
+	path = libs/dynamic_bitset
+	url = ../dynamic_bitset.git
+	fetchRecurseSubmodules = on-demand
