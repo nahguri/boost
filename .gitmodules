@@ -102,6 +102,10 @@
 	path = libs/thread
 	url = ../thread.git
 	fetchRecurseSubmodules = on-demand
+[submodule "function"]
+	path = libs/function
+	url = ../function.git
+	fetchRecurseSubmodules = on-demand
 [submodule "crc"]
 	path = libs/crc
 	url = ../crc.git
