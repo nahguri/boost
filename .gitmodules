@@ -210,6 +210,10 @@
 	path = libs/range
 	url = ../range.git
 	fetchRecurseSubmodules = on-demand
+[submodule "logic"]
+	path = libs/logic
+	url = ../logic.git
+	fetchRecurseSubmodules = on-demand
 [submodule "inspect"]
 	path = tools/inspect
 	url = ../inspect.git
