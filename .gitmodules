@@ -78,3 +78,7 @@
 	path = libs/python
 	url = ../python.git
 	fetchRecurseSubmodules = on-demand
+[submodule "static_assert"]
+	path = libs/static_assert
+	url = ../static_assert.git
+	fetchRecurseSubmodules = on-demand
