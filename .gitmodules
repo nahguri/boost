@@ -138,6 +138,10 @@
 	path = libs/preprocessor
 	url = ../preprocessor.git
 	fetchRecurseSubmodules = on-demand
+[submodule "multi_array"]
+	path = libs/multi_array
+	url = ../multi_array.git
+	fetchRecurseSubmodules = on-demand
 [submodule "lambda"]
 	path = libs/lambda
 	url = ../lambda.git
