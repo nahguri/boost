@@ -166,6 +166,10 @@
 	path = libs/signals
 	url = ../signals.git
 	fetchRecurseSubmodules = on-demand
+[submodule "bcp"]
+	path = tools/bcp
+	url = ../bcp.git
+	fetchRecurseSubmodules = on-demand
 [submodule "filesystem"]
 	path = libs/filesystem
 	url = ../filesystem.git
