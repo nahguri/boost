@@ -82,6 +82,10 @@
 	path = libs/pool
 	url = ../pool.git
 	fetchRecurseSubmodules = on-demand
+[submodule "mpl"]
+	path = libs/mpl
+	url = ../mpl.git
+	fetchRecurseSubmodules = on-demand
 [submodule "python"]
 	path = libs/python
 	url = ../python.git
