@@ -206,6 +206,10 @@
 	path = libs/spirit
 	url = ../spirit.git
 	fetchRecurseSubmodules = on-demand
+[submodule "range"]
+	path = libs/range
+	url = ../range.git
+	fetchRecurseSubmodules = on-demand
 [submodule "inspect"]
 	path = tools/inspect
 	url = ../inspect.git
