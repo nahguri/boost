@@ -178,6 +178,10 @@
 	path = libs/exception
 	url = ../exception.git
 	fetchRecurseSubmodules = on-demand
+[submodule "numeric_conversion"]
+	path = libs/numeric/conversion
+	url = ../numeric_conversion.git
+	fetchRecurseSubmodules = on-demand
 [submodule "interval"]
 	path = libs/numeric/interval
 	url = ../interval.git
