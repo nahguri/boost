@@ -186,6 +186,10 @@
 	path = libs/dynamic_bitset
 	url = ../dynamic_bitset.git
 	fetchRecurseSubmodules = on-demand
+[submodule "boostbook"]
+	path = tools/boostbook
+	url = ../boostbook.git
+	fetchRecurseSubmodules = on-demand
 [submodule "spirit"]
 	path = libs/spirit
 	url = ../spirit.git
