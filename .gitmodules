@@ -166,6 +166,10 @@
 	path = libs/signals
 	url = ../signals.git
 	fetchRecurseSubmodules = on-demand
+[submodule "filesystem"]
+	path = libs/filesystem
+	url = ../filesystem.git
+	fetchRecurseSubmodules = on-demand
 [submodule "exception"]
 	path = libs/exception
 	url = ../exception.git
