@@ -126,3 +126,7 @@
 	path = libs/tuple
 	url = ../tuple.git
 	fetchRecurseSubmodules = on-demand
+[submodule "bind"]
+	path = libs/bind
+	url = ../bind.git
+	fetchRecurseSubmodules = on-demand
