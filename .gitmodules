@@ -182,3 +182,7 @@
 	path = libs/dynamic_bitset
 	url = ../dynamic_bitset.git
 	fetchRecurseSubmodules = on-demand
+[submodule "inspect"]
+	path = tools/inspect
+	url = ../inspect.git
+	fetchRecurseSubmodules = on-demand
