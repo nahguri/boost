@@ -230,6 +230,10 @@
 	path = libs/algorithm
 	url = ../algorithm.git
 	fetchRecurseSubmodules = on-demand
+[submodule "serialization"]
+	path = libs/serialization
+	url = ../serialization.git
+	fetchRecurseSubmodules = on-demand
 [submodule "assign"]
 	path = libs/assign
 	url = ../assign.git
