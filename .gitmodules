@@ -54,6 +54,10 @@
 	path = libs/graph
 	url = ../graph.git
 	fetchRecurseSubmodules = on-demand
+[submodule "regex"]
+	path = libs/regex
+	url = ../regex.git
+	fetchRecurseSubmodules = on-demand
 [submodule "concept_check"]
 	path = libs/concept_check
 	url = ../concept_check.git
