@@ -190,6 +190,10 @@
 	path = tools/boostbook
 	url = ../boostbook.git
 	fetchRecurseSubmodules = on-demand
+[submodule "variant"]
+	path = libs/variant
+	url = ../variant.git
+	fetchRecurseSubmodules = on-demand
 [submodule "spirit"]
 	path = libs/spirit
 	url = ../spirit.git
