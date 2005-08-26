@@ -22,6 +22,10 @@
 	path = libs/parameter
 	url = ../parameter.git
 	fetchRecurseSubmodules = on-demand
+[submodule "foreach"]
+	path = libs/foreach
+	url = ../foreach.git
+	fetchRecurseSubmodules = on-demand
 [submodule "compatibility"]
 	path = libs/compatibility
 	url = ../compatibility.git
