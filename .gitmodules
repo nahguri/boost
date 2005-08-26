@@ -258,6 +258,10 @@
 	path = libs/assign
 	url = ../assign.git
 	fetchRecurseSubmodules = on-demand
+[submodule "typeof"]
+	path = libs/typeof
+	url = ../typeof.git
+	fetchRecurseSubmodules = on-demand
 [submodule "wave"]
 	path = libs/wave
 	url = ../wave.git
