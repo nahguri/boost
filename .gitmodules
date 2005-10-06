@@ -262,6 +262,10 @@
 	path = libs/assign
 	url = ../assign.git
 	fetchRecurseSubmodules = on-demand
+[submodule "xpressive"]
+	path = libs/xpressive
+	url = ../xpressive.git
+	fetchRecurseSubmodules = on-demand
 [submodule "typeof"]
 	path = libs/typeof
 	url = ../typeof.git
