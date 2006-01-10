@@ -274,6 +274,10 @@
 	path = libs/tr1
 	url = ../tr1.git
 	fetchRecurseSubmodules = on-demand
+[submodule "graph_parallel"]
+	path = libs/graph_parallel
+	url = ../graph_parallel.git
+	fetchRecurseSubmodules = on-demand
 [submodule "wave"]
 	path = libs/wave
 	url = ../wave.git
