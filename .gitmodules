@@ -282,3 +282,7 @@
 	path = libs/wave
 	url = ../wave.git
 	fetchRecurseSubmodules = on-demand
+[submodule "litre"]
+	path = tools/litre
+	url = ../litre.git
+	fetchRecurseSubmodules = on-demand
