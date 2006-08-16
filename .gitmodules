@@ -254,6 +254,10 @@
 	path = libs/algorithm
 	url = ../algorithm.git
 	fetchRecurseSubmodules = on-demand
+[submodule "fusion"]
+	path = libs/fusion
+	url = ../fusion.git
+	fetchRecurseSubmodules = on-demand
 [submodule "serialization"]
 	path = libs/serialization
 	url = ../serialization.git
