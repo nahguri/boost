@@ -198,6 +198,10 @@
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
 	fetchRecurseSubmodules = on-demand
+[submodule "system"]
+	path = libs/system
+	url = ../system.git
+	fetchRecurseSubmodules = on-demand
 [submodule "interval"]
 	path = libs/numeric/interval
 	url = ../interval.git
