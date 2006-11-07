@@ -114,6 +114,14 @@
 	path = libs/program_options
 	url = ../program_options.git
 	fetchRecurseSubmodules = on-demand
+[submodule "fusion"]
+	path = libs/fusion
+	url = ../fusion.git
+	fetchRecurseSubmodules = on-demand
+[submodule "asio"]
+	path = libs/asio
+	url = ../asio.git
+	fetchRecurseSubmodules = on-demand
 [submodule "preprocessor"]
 	path = libs/preprocessor
 	url = ../preprocessor.git
@@ -281,4 +289,8 @@
 [submodule "graph"]
 	path = libs/graph
 	url = ../graph.git
+	fetchRecurseSubmodules = on-demand
+[submodule "interprocess"]
+	path = libs/interprocess
+	url = ../interprocess.git
 	fetchRecurseSubmodules = on-demand
