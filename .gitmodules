@@ -290,6 +290,10 @@
 	path = libs/wave
 	url = ../wave.git
 	fetchRecurseSubmodules = on-demand
+[submodule "mpi"]
+	path = libs/mpi
+	url = ../mpi.git
+	fetchRecurseSubmodules = on-demand
 [submodule "interprocess"]
 	path = libs/interprocess
 	url = ../interprocess.git
