@@ -2,6 +2,10 @@
 	path = libs/io
 	url = ../io.git
 	fetchRecurseSubmodules = on-demand
+[submodule "gil"]
+	path = libs/gil
+	url = ../gil.git
+	fetchRecurseSubmodules = on-demand
 [submodule "ublas"]
 	path = libs/numeric/ublas
 	url = ../ublas.git
