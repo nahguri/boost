@@ -318,3 +318,7 @@
 	path = libs/intrusive
 	url = ../intrusive.git
 	fetchRecurseSubmodules = on-demand
+[submodule "property_tree"]
+	path = libs/property_tree
+	url = ../property_tree.git
+	fetchRecurseSubmodules = on-demand
