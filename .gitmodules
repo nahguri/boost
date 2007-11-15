@@ -78,6 +78,10 @@
 	path = libs/signals
 	url = ../signals.git
 	fetchRecurseSubmodules = on-demand
+[submodule "litre"]
+	path = tools/litre
+	url = ../litre.git
+	fetchRecurseSubmodules = on-demand
 [submodule "utility"]
 	path = libs/utility
 	url = ../utility.git
@@ -281,4 +285,8 @@
 [submodule "graph"]
 	path = libs/graph
 	url = ../graph.git
+	fetchRecurseSubmodules = on-demand
+[submodule "system"]
+	path = libs/system
+	url = ../system.git
 	fetchRecurseSubmodules = on-demand
