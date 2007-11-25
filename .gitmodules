@@ -54,6 +54,10 @@
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
 	fetchRecurseSubmodules = on-demand
+[submodule "asio"]
+	path = libs/asio
+	url = ../asio.git
+	fetchRecurseSubmodules = on-demand
 [submodule "config"]
 	path = libs/config
 	url = ../config.git
@@ -81,6 +85,10 @@
 [submodule "litre"]
 	path = tools/litre
 	url = ../litre.git
+	fetchRecurseSubmodules = on-demand
+[submodule "interprocess"]
+	path = libs/interprocess
+	url = ../interprocess.git
 	fetchRecurseSubmodules = on-demand
 [submodule "utility"]
 	path = libs/utility
@@ -202,6 +210,10 @@
 	path = libs/range
 	url = ../range.git
 	fetchRecurseSubmodules = on-demand
+[submodule "property_tree"]
+	path = libs/property_tree
+	url = ../property_tree.git
+	fetchRecurseSubmodules = on-demand
 [submodule "tr1"]
 	path = libs/tr1
 	url = ../tr1.git
@@ -286,7 +298,35 @@
 	path = libs/graph
 	url = ../graph.git
 	fetchRecurseSubmodules = on-demand
+[submodule "mpi"]
+	path = libs/mpi
+	url = ../mpi.git
+	fetchRecurseSubmodules = on-demand
+[submodule "fusion"]
+	path = libs/fusion
+	url = ../fusion.git
+	fetchRecurseSubmodules = on-demand
+[submodule "circular_buffer"]
+	path = libs/circular_buffer
+	url = ../circular_buffer.git
+	fetchRecurseSubmodules = on-demand
+[submodule "gil"]
+	path = libs/gil
+	url = ../gil.git
+	fetchRecurseSubmodules = on-demand
 [submodule "system"]
 	path = libs/system
 	url = ../system.git
+	fetchRecurseSubmodules = on-demand
+[submodule "function_types"]
+	path = libs/function_types
+	url = ../function_types.git
+	fetchRecurseSubmodules = on-demand
+[submodule "intrusive"]
+	path = libs/intrusive
+	url = ../intrusive.git
+	fetchRecurseSubmodules = on-demand
+[submodule "bimap"]
+	path = libs/bimap
+	url = ../bimap.git
 	fetchRecurseSubmodules = on-demand
