@@ -142,6 +142,10 @@
 	path = libs/assign
 	url = ../assign.git
 	fetchRecurseSubmodules = on-demand
+[submodule "unordered"]
+	path = libs/unordered
+	url = ../unordered.git
+	fetchRecurseSubmodules = on-demand
 [submodule "conversion"]
 	path = libs/conversion
 	url = ../conversion.git
@@ -149,6 +153,10 @@
 [submodule "random"]
 	path = libs/random
 	url = ../random.git
+	fetchRecurseSubmodules = on-demand
+[submodule "accumulators"]
+	path = libs/accumulators
+	url = ../accumulators.git
 	fetchRecurseSubmodules = on-demand
 [submodule "inspect"]
 	path = tools/inspect
