@@ -54,6 +54,10 @@
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
 	fetchRecurseSubmodules = on-demand
+[submodule "unordered"]
+	path = libs/unordered
+	url = ../unordered.git
+	fetchRecurseSubmodules = on-demand
 [submodule "asio"]
 	path = libs/asio
 	url = ../asio.git
