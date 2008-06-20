@@ -322,6 +322,10 @@
 	path = libs/gil
 	url = ../gil.git
 	fetchRecurseSubmodules = on-demand
+[submodule "units"]
+	path = libs/units
+	url = ../units.git
+	fetchRecurseSubmodules = on-demand
 [submodule "system"]
 	path = libs/system
 	url = ../system.git
