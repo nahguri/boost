@@ -30,6 +30,10 @@
 	path = libs/dynamic_bitset
 	url = ../dynamic_bitset.git
 	fetchRecurseSubmodules = on-demand
+[submodule "scope_exit"]
+	path = libs/scope_exit
+	url = ../scope_exit.git
+	fetchRecurseSubmodules = on-demand
 [submodule "test"]
 	path = libs/test
 	url = ../test.git
