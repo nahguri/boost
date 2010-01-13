@@ -358,3 +358,7 @@
 	path = libs/signals2
 	url = ../signals2.git
 	fetchRecurseSubmodules = on-demand
+[submodule "uuid"]
+	path = libs/uuid
+	url = ../uuid.git
+	fetchRecurseSubmodules = on-demand
