@@ -62,6 +62,10 @@
 	path = libs/polygon
 	url = ../polygon.git
 	fetchRecurseSubmodules = on-demand
+[submodule "geometry"]
+	path = libs/geometry
+	url = ../geometry.git
+	fetchRecurseSubmodules = on-demand
 [submodule "unordered"]
 	path = libs/unordered
 	url = ../unordered.git
