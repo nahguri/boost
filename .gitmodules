@@ -386,3 +386,7 @@
 	path = libs/ratio
 	url = ../ratio.git
 	fetchRecurseSubmodules = on-demand
+[submodule "phoenix"]
+	path = libs/phoenix
+	url = ../phoenix.git
+	fetchRecurseSubmodules = on-demand
