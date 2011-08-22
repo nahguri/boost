@@ -58,6 +58,10 @@
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
 	fetchRecurseSubmodules = on-demand
+[submodule "locale"]
+	path = libs/locale
+	url = ../locale.git
+	fetchRecurseSubmodules = on-demand
 [submodule "polygon"]
 	path = libs/polygon
 	url = ../polygon.git
