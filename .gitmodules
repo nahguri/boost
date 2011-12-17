@@ -386,6 +386,10 @@
 	path = libs/msm
 	url = ../msm.git
 	fetchRecurseSubmodules = on-demand
+[submodule "heap"]
+	path = libs/heap
+	url = ../heap.git
+	fetchRecurseSubmodules = on-demand
 [submodule "chrono"]
 	path = libs/chrono
 	url = ../chrono.git
