@@ -394,6 +394,10 @@
 	path = libs/chrono
 	url = ../chrono.git
 	fetchRecurseSubmodules = on-demand
+[submodule "context"]
+	path = libs/context
+	url = ../context.git
+	fetchRecurseSubmodules = on-demand
 [submodule "move"]
 	path = libs/move
 	url = ../move.git
