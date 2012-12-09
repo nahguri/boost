@@ -334,6 +334,10 @@
 	path = libs/multiprecision
 	url = ../multiprecision.git
 	fetchRecurseSubmodules = on-demand
+[submodule "odeint"]
+	path = libs/numeric/odeint
+	url = ../odeint.git
+	fetchRecurseSubmodules = on-demand
 [submodule "accumulators"]
 	path = libs/accumulators
 	url = ../accumulators.git
