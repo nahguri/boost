@@ -366,6 +366,10 @@
 	path = libs/intrusive
 	url = ../intrusive.git
 	fetchRecurseSubmodules = on-demand
+[submodule "lockfree"]
+	path = libs/lockfree
+	url = ../lockfree.git
+	fetchRecurseSubmodules = on-demand
 [submodule "bimap"]
 	path = libs/bimap
 	url = ../bimap.git
@@ -425,6 +429,10 @@
 [submodule "coroutine"]
 	path = libs/coroutine
 	url = ../coroutine.git
+	fetchRecurseSubmodules = on-demand
+[submodule "atomic"]
+	path = libs/atomic
+	url = ../atomic.git
 	fetchRecurseSubmodules = on-demand
 [submodule "local_function"]
 	path = libs/local_function
