@@ -234,6 +234,10 @@
 	path = libs/graph_parallel
 	url = ../graph_parallel.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "litre"]
 	path = tools/litre
 	url = ../litre.git
