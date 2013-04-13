@@ -6,6 +6,10 @@
 	path = libs/type_traits
 	url = ../type_traits.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "system"]
 	path = libs/system
 	url = ../system.git
