@@ -18,6 +18,10 @@
 	path = libs/graph_parallel
 	url = ../graph_parallel.git
 	fetchRecurseSubmodules = on-demand
+[submodule "tti"]
+	path = libs/tti
+	url = ../tti.git
+	fetchRecurseSubmodules = on-demand
 [submodule "preprocessor"]
 	path = libs/preprocessor
 	url = ../preprocessor.git
