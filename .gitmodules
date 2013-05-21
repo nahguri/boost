@@ -306,6 +306,10 @@
 	path = libs/random
 	url = ../random.git
 	fetchRecurseSubmodules = on-demand
+[submodule "type_erasure"]
+	path = libs/type_erasure
+	url = ../type_erasure.git
+	fetchRecurseSubmodules = on-demand
 [submodule "iostreams"]
 	path = libs/iostreams
 	url = ../iostreams.git
