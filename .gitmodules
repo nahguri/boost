@@ -438,6 +438,10 @@
 	path = libs/phoenix
 	url = ../phoenix.git
 	fetchRecurseSubmodules = on-demand
+[submodule "predef"]
+	path = libs/predef
+	url = ../predef.git
+	fetchRecurseSubmodules = on-demand
 [submodule "coroutine"]
 	path = libs/coroutine
 	url = ../coroutine.git
